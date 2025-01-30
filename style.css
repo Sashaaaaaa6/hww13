@@ -1,15 +1,44 @@
 .nav-ul {
   display: flex;
   list-style: none;
+  margin-right: 344px;
 }
 .header-ul {
   display: flex;
   list-style: none;
 }
-.header {
+.qwe {
   display: flex;
 }
 .container {
   width: 1200px;
   padding: 0 15px;
+  margin: 0 auto;
+}
+.header {
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
+.header-a {
+  margin-right: 92px;
+}
+.ul-a {
+  margin-right: 50px;
+}
+.nav-li {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.main-section0 {
+  display: flex;
+}
+.main {
+  display: flex;
+}
+.cl {
+  padding-top: 200px;
+  padding-bottom: 280px;
+}
+.main-section1 {
+  display: flex;
 }
